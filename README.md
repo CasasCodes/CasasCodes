@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CasasCodes
 - 👀 I’m interested in developing strong programming skills in Python, .NET, SQL and JavaScript 
-- 🌱 I’m currently learning Azure Fundsmentals and Python
+- 🌱 I’m currently learning Azure Fundamentals and Python
 - 💞️ I’m looking to collaborate on projects for beginners/work related
 
 <!---
